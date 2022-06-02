@@ -14,7 +14,9 @@ struct TRxIBus{
   UART_HandleTypeDef* uart;
   uint8_t qdtCanal;
   uint8_t* buffer;
+  uint8_t buffer_size;
   uint16_t* canais;
+  uint16_t* canais_tmp;
 };
 
 
