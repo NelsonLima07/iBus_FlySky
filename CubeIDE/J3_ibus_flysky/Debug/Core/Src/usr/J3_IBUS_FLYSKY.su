@@ -1,5 +1,3 @@
-J3_IBUS_FLYSKY.c:17:10:J3_IBUS_new	24	static
-J3_IBUS_FLYSKY.c:36:6:J3_IBUS_ProcessBuffer	24	static
-J3_IBUS_FLYSKY.c:53:10:J3_IBUS_ChkSum	24	static
-J3_IBUS_FLYSKY.c:59:6:J3_IBUS_ValidBuffer	16	static
-J3_IBUS_FLYSKY.c:64:10:J3_IBUS_GetCh	16	static
+../Core/Src/usr/J3_IBUS_FLYSKY.c:18:10:J3_IBUS_new	24	static
+../Core/Src/usr/J3_IBUS_FLYSKY.c:42:6:J3_IBUS_ProcessBuffer	32	static
+../Core/Src/usr/J3_IBUS_FLYSKY.c:90:10:J3_IBUS_GetCh	16	static
